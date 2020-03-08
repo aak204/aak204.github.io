@@ -1,0 +1,138 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" ftp_hostname="ftp://145.239.224.55" ftp_rootfolder="/www/electrlka43.h1n.ru" exportTarget="FTP" domain="electrlka43.h1n.ru" resolutions="1x" timestamp="1569848923857">
+  <folder name="assets">
+    <file name="1.bmp" crc="117007107" seo="true" mt="1556742281000"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="index.css" crc="155700429" ref="tablet>index"/>
+      <file name="iefonts_index.css" crc="36578764" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="3936257874" seo="true" mt="1557335414848" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="156710505" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="3780123667" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="4277674433" seo="true" mt="1557335466308" redirect="true"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="4234752652"/>
+    <file name="master_a-master.css" crc="3913748331" ref="index"/>
+    <file name="index.css" crc="257870267" ref="index"/>
+    <file name="iefonts_index.css" crc="128228480" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:phone>index:tablet>index"/>
+    <file name="museutils.js" crc="340535759" ref="index:phone>index:tablet>index"/>
+    <file name="whatinput.js" crc="86476730" ref="index:phone>index:tablet>index"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:phone>index:tablet>index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:phone>index:tablet>index"/>
+    <file name="require.js" crc="7928878" ref="index:phone>index:tablet>index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="phone>index"/>
+  </folder>
+  <folder name="images">
+    <file name="электрик-в-кирове-favicon.ico" crc="4058298958" ref="phone>index:tablet>index:index"/>
+    <file name="save-money.png" crc="310731917" seo="true" ref="index:phone>index:tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="handshake.png" crc="4183149086" seo="true" ref="index:phone>index:tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="advantages.png" crc="4146399140" seo="true" ref="index:phone>index:tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="электропроводка в квартире (7).jpg" crc="3883382285" seo="true" ref="index:phone>index:tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="монтаж-проводки-1.jpg" crc="3979448511" seo="true" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="№20-1.jpg" crc="3837493242" seo="true" ref="index:phone>index:tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4-4.jpg" crc="3947277958" seo="true" ref="index:phone>index:tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="zamena-ehlektroprovodki-v-panelnom-dome1.jpg" crc="27034300" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="913084496.jpg" crc="3835737187" seo="true" ref="index:tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sjdfhjsdfh.png" crc="196796084" seo="true" ref="index:phone>index:tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="test1.png" crc="416431894" seo="true" ref="index:phone>index:tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitled.png" crc="3785317082" seo="true" ref="index:phone>index:tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="block9line.png" crc="4234190036" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="progressbar.png" crc="518870107" seo="true" ref="index:tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="вставленные-svg-146x114.svg" crc="531309216" seo="true" ref="index:phone>index:tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="вставленные svg 146x114_poster_.png" crc="4183341224" ref="phone>index:tablet>index:index"/>
+    <file name="вставленные-svg-11471x114.svg" crc="366434712" seo="true" ref="index:phone>index:tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="вставленные svg 11471x114_poster_.png" crc="416724839" ref="phone>index:tablet>index:index"/>
+    <file name="heart.png" crc="117585526" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="вставленные-svg-286.svg" crc="3775252586" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="вставленные svg 286_poster_.png" crc="4255203640" ref="phone>index"/>
+    <file name="icons2.svg" crc="3773190141" ref="phone>index"/>
+    <file name="icons2_poster_u2322.png" crc="509155862" ref="phone>index"/>
+  </folder>
+  <file name="index.html" crc="514723532" seo="true" mt="1569848877462" redirect="true"/>
+  <site>
+    <asset filename="1.bmp" muse_href="upload:U3466"/>
+    <paragraphStyle className="normal_text" uid="U48"/>
+    <paragraphStyle className="p1" uid="U2332"/>
+    <nestedListStyle className="nls-None" uid="U51"/>
+  </site>
+  <renditions>
+    <rendition device="desktop">
+      <page name="Электрик в Кирове" filename="index.html" muse_href="page:U74" master="U65">
+        <breakpoint uid="U2124" maxwidth="1180" minwidth="0" squishy="false"/>
+      </page>
+      <masterPage name="A-Master" master="U61" uid="U65">
+        <breakpoint uid="U2125" maxwidth="1180" minwidth="0" squishy="false"/>
+      </masterPage>
+      <masterPage name="None" master="null" uid="U61">
+        <breakpoint uid="U2126" maxwidth="1180" minwidth="0" squishy="false"/>
+      </masterPage>
+    </rendition>
+    <rendition device="tablet">
+      <page name="Электрик в Кирове" filename="index.html" muse_href="page:U3128" master="U3107">
+        <breakpoint uid="U3118" maxwidth="768" minwidth="0" squishy="false"/>
+      </page>
+      <masterPage name="A-Master" master="U3097" uid="U3107">
+        <breakpoint uid="U3108" maxwidth="768" minwidth="0" squishy="false"/>
+      </masterPage>
+      <masterPage name="None" master="null" uid="U3097">
+        <breakpoint uid="U3098" maxwidth="768" minwidth="0" squishy="false"/>
+      </masterPage>
+    </rendition>
+    <rendition device="phone">
+      <page name="Электрик в Кирове" filename="index.html" muse_href="page:U2720" master="U2699">
+        <breakpoint uid="U2710" maxwidth="380" minwidth="0" squishy="false"/>
+      </page>
+      <masterPage name="A-Master" master="U2689" uid="U2699">
+        <breakpoint uid="U2700" maxwidth="380" minwidth="0" squishy="false"/>
+      </masterPage>
+      <masterPage name="None" master="null" uid="U2689">
+        <breakpoint uid="U2690" maxwidth="380" minwidth="0" squishy="false"/>
+      </masterPage>
+    </rendition>
+  </renditions>
+</manifest>
